@@ -4,5 +4,5 @@
 Moje pierwsze zmiany w pliku
 
 
-Nowe zmiany2
+Nowe zmiany
 
